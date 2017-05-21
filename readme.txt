@@ -3,3 +3,5 @@ git help me to control code.
 today is 5.20.
 today is 5.21.
 git tracks change.
+git has a mutable index called stage.
+
